@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882755971218",
+    "project_id": "recraft-950af",
+    "storage_bucket": "recraft-950af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882755971218:android:bf09ec343324a1872fde4b",
+        "android_client_info": {
+          "package_name": "com.example.latihanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882755971218-vvoo7r6fmhljfv0nji3f7bgikpa08ksp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihanfirebase",
+            "certificate_hash": "d0fe830cae7d0dace68cf478dbcad3ac210d6025"
+          }
+        },
+        {
+          "client_id": "882755971218-hrehi8fort1r885c3nlv3k4r3ncfs4uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4st9o4MGeCt563b_ARPjpSbRDFXaFpgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882755971218-hrehi8fort1r885c3nlv3k4r3ncfs4uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
